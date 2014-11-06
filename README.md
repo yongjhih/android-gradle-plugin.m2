@@ -12,6 +12,6 @@ repositories {
 }
 
 dependencies {
-    classpath 'com.android.tools.build:gradle:0.14.2'
+    classpath 'com.infstory.tools.build:gradle:0.14.2'
 }
 ```
