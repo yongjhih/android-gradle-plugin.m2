@@ -7,10 +7,10 @@
   <version>23.2.1</version>
   <dependencies>
     <dependency>
-      <groupId>com.android.tools.lint</groupId>
-      <artifactId>lint-checks</artifactId>
+      <groupId>com.android.tools</groupId>
+      <artifactId>testutils</artifactId>
       <version>23.2.1</version>
-      <scope>compile</scope>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.codehaus.groovy</groupId>
@@ -25,10 +25,10 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>testutils</artifactId>
+      <groupId>com.android.tools.lint</groupId>
+      <artifactId>lint-checks</artifactId>
       <version>23.2.1</version>
-      <scope>test</scope>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>junit</groupId>

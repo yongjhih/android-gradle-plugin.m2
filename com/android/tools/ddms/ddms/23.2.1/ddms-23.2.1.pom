@@ -14,7 +14,13 @@
     </dependency>
     <dependency>
       <groupId>com.android.tools</groupId>
-      <artifactId>swtmenubar</artifactId>
+      <artifactId>sdkstats</artifactId>
+      <version>23.2.1</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.android.tools</groupId>
+      <artifactId>common</artifactId>
       <version>23.2.1</version>
       <scope>compile</scope>
     </dependency>
@@ -25,8 +31,8 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools</groupId>
-      <artifactId>sdkstats</artifactId>
+      <groupId>com.android.tools.ddms</groupId>
+      <artifactId>ddmlib</artifactId>
       <version>23.2.1</version>
       <scope>compile</scope>
     </dependency>
@@ -37,14 +43,8 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>com.android.tools.ddms</groupId>
-      <artifactId>ddmlib</artifactId>
-      <version>23.2.1</version>
-      <scope>compile</scope>
-    </dependency>
-    <dependency>
       <groupId>com.android.tools</groupId>
-      <artifactId>common</artifactId>
+      <artifactId>swtmenubar</artifactId>
       <version>23.2.1</version>
       <scope>compile</scope>
     </dependency>

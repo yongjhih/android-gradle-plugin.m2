@@ -20,7 +20,7 @@
     </dependency>
     <dependency>
       <groupId>com.android.tools.ddms</groupId>
-      <artifactId>ddmuilib</artifactId>
+      <artifactId>ddmlib</artifactId>
       <version>23.2.1</version>
       <scope>compile</scope>
     </dependency>
@@ -32,7 +32,7 @@
     </dependency>
     <dependency>
       <groupId>com.android.tools.ddms</groupId>
-      <artifactId>ddmlib</artifactId>
+      <artifactId>ddmuilib</artifactId>
       <version>23.2.1</version>
       <scope>compile</scope>
     </dependency>

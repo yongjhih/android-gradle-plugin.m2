@@ -7,16 +7,16 @@
   <version>23.2.1</version>
   <dependencies>
     <dependency>
+      <groupId>com.infstory.tools.build</groupId>
+      <artifactId>builder-test-api</artifactId>
+      <version>0.14.3</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.tools</groupId>
       <artifactId>testutils</artifactId>
       <version>23.2.1</version>
       <scope>test</scope>
-    </dependency>
-    <dependency>
-      <groupId>com.infstory.tools.build</groupId>
-      <artifactId>builder-test-api</artifactId>
-      <version>0.14.2</version>
-      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
